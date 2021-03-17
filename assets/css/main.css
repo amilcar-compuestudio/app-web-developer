@@ -1,0 +1,23 @@
+@import url('../fonts/hfsom.css');
+
+.h-dflex{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    justify-content: space-around;
+}
+
+.flex-m{
+    display: flex;
+    justify-content: center;
+}
+
+.d-flex-ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav {
+    width: 70%;
+}
